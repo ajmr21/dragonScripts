@@ -1,0 +1,17 @@
+[
+	{
+		'id' : '01',
+		'name' : 'nombre01',
+		'src' : 'level01'
+	},
+	{
+		'id' : '02',
+		'name' : 'nombre02',
+		'src' : 'level02'
+	},
+	{
+		'id' : '03',
+		'name' : 'nombre03',
+		'src' : 'level03'
+	}
+]
